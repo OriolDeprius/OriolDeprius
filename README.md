@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Web Developer from Girona<br><br>🌱 I’m currently learning Angular<br><br>👨‍💻 My portfolio is available at https://orioldeprius.github.io<br><br>📫 How to reach me orioldeprius@gmail.com<br><br>📄 Know about my experiences https://orioldeprius.github.io/cv.pdf
+I'm a Full-Stack Web Developer from Girona<br><br>🌱 I’m currently learning Angular<br><br>📫 How to reach me orioldeprius@gmail.com<br><br>📄 Know about my experiences https://orioldeprius.github.io/cv.pdf
 
 
 ## 🌐 Socials:
